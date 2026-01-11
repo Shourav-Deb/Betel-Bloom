@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e7/4b/ce/e74bcea049a8eb1d5c2df7c6131a2d3b.jpg" alt="Web Development Showcase Banner" width="1200">
+  <img src="https://i.pinimg.com/originals/ae/05/28/ae05288c3da513b5a9cb5118f9023a2c.png" alt="Web Development Showcase Banner" width="1200">
 </p>
 
 
