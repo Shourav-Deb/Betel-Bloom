@@ -1,12 +1,6 @@
 
 ---
 
-<h1 align="center">🥽 Visiopedia: A Comparative Performance Study 🥽</h1>
-<p align="center">
-  <i>Exploring How Machines Learn Visual Concepts Without Labels</i>
-</p>
-
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/ae/05/28/ae05288c3da513b5a9cb5118f9023a2c.png" alt="Web Development Showcase Banner" width="1200">
 </p>
@@ -85,7 +79,7 @@ You do not train a classifier. Instead, you teach the system **visual concepts**
 
 
 
-### 🔹 Step 1: Teach Visual Objects
+### 🔹 Point 1: Teach Visual Objects
 
 Navigate to **Step 1: Teach Visual Objects**.
 
@@ -106,7 +100,7 @@ Repeat this process to add more objects.
 
 
 
-### 🔹 Step 2: Lock the Knowledge
+### 🔹 Point 2: Lock the Knowledge
 
 Once you finish teaching:
 
@@ -122,7 +116,7 @@ You can **unlock** the system at any time if you need to modify or add objects.
 
 
 
-### 🔹 Step 3: Explore New Images
+### 🔹 Point 3: Explore New Images
 
 After Lock It Will Go to **Step 2: Test Images**.
 
@@ -142,7 +136,7 @@ Multiple objects can be detected in a single image if sufficient visual similari
 
 
 
-### 🔹 Understanding the Output
+### 🔹 Point 4: Understanding the Output
 
 - Confidence bars represent **relative similarity**, not probability
 - Higher bars indicate **stronger visual resemblance**
@@ -155,7 +149,7 @@ Multiple objects can be detected in a single image if sufficient visual similari
 
 
 
-### 🔹 Editing or Resetting
+### 🔹 Point 5: Editing or Resetting
 
 You can **unlock** the system at any time to:
 
@@ -166,12 +160,11 @@ You can **unlock** the system at any time to:
 After making changes, **lock** the system again to resume testing.
 
 
-
-### ⚠️ Important Notes
-
-- Results depend on **visual similarity**, not semantic correctness
-- The system may detect **multiple objects** in one image
-- If no learned object matches, Visiopedia will explicitly state that nothing was recognized
+---
+> ### ⚠️ Important Notes
+> - Results depend on **visual similarity**, not semantic correctness
+> - The system may detect **multiple objects** in one image
+> - If no learned object matches, Visiopedia will explicitly state that nothing was recognized
 
 ---
 
@@ -201,5 +194,6 @@ Training and experimentation were conducted using **Kaggle / Colab environments*
 
 
 
-**🎉 Happy exploring visual reasoning with Visiopedia. Hope you like it. 🎉**
+<p align="center">🎉 Happy exploring visual reasoning with Visiopedia. Hope you like it. 🎉</p>
+
 ---
